@@ -1,0 +1,23 @@
+.button{
+    cursor: pointer;
+    font-weight: bolder;
+    background-color: rgb(255, 61, 61);
+    padding: 8px 10px;
+    color: yellow;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;    
+    box-shadow: 5px 5px 10px black;
+}
+.button:hover{
+    background-color: rgb(206, 45, 45);
+    transition: 200ms;
+}
+
+#motivation-2 > img{
+    border-radius: 20px;
+}
+
+hr{
+    margin: 50px 0;
+}
